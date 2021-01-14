@@ -6,6 +6,5 @@ A rubbish spider for gdufe's jwxt
 
 *当前登陆方式为cookie登陆,后续会加入账号密码登陆*
 
-
 # 已有功能:
 - 课表爬取
