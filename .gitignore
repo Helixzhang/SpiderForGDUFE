@@ -1,2 +1,12 @@
-class.csv
+# text files
+*.csv
 *.txt
+
+#test unit
+test.py
+
+# cache
+*.pyc
+
+# vscode config
+*.json

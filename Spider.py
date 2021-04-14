@@ -63,4 +63,3 @@ class Spider(object):
                     f.write(_class+'\n')
                 index+=1
             
-            time.sleep(5)
